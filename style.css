@@ -1,0 +1,9 @@
+.subnav-search input.subnav-search-input {
+    padding-right: var(--base-size-32);
+}
+
+#fav-button {
+  position: absolute;
+  display: block;
+  left: calc(100% - var(--control-medium-size));
+}

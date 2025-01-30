@@ -2,7 +2,7 @@
    "manifest_version": 3,
    "name": "PullSmart Filters",
    "description": "Add custom filters to GitHub PR page.",
-   "version": "1.0",
+   "version": "1.0.1",
    "icons": {
       "128": "icons/icon128.png",
       "48": "icons/icon48.png",
